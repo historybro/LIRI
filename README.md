@@ -38,28 +38,21 @@ Since the code runs in the command line and uses sensitive API keys they have be
 
 ### Program Start
 ![Program Opening](/images/1.png)
-Format: ![Program Opening](url)
 
 ### Spotify
 #### Spotify with no user input
 ![Spotify no input](/images/2.png)
-Format: ![Spotify no input](url)
 #### Spotify with user input
 ![spotify search](/images/5.png)
-Format: ![spotify search](url)
 
 ### OMDB
 #### OMDB with no user input
 ![OMDB no input](/images/3.png)
-Format: ![OMDB no input](url)
 #### OMDB with user input
 ![OMDB Search](/images/7.png)
-Format: ![OMDB Search](url)
 
 ### Bands in Town
 ![BIT search](/images/6.png)
-Format: ![BIT search](url)
 
 ### Do what it says (surprise me)
 ![Surprise Me](/images/4.png)
-Format: ![Surprise Me](url)
